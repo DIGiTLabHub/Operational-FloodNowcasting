@@ -1,0 +1,6 @@
+[submodule "ModelOfModels"]
+	path = ModelOfModels
+	url = https://github.com/Global-Flood-Assessment/ModelOfModels.git
+[submodule "MoMProduction"]
+	path = MoMProduction
+	url = https://github.com/Global-Flood-Assessment/MoMProduction.git
